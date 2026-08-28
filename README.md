@@ -1,6 +1,9 @@
 # 2020-SolarWinds-Supply-Chain-Attack-Post-Incident-Written-Report
+
+# Description
 This post-incident report evaluates the nation-state supply chain attack targeting SolarWinds' Orion network monitoring software. It details how foreign intelligence threat actors breached internal build environments, injected the SUNBURST backdoor into digitally signed updates, and compromised approximately 18,000 client organizations—including U.S. federal agencies and critical enterprise sectors. The analysis documents key financial impacts, forensic discovery timelines via FireEye, root causes involving build-pipeline security gaps, and recommended defense-in-depth frameworks including Zero Trust, strict least privilege, and Data Loss Prevention (DLP) controls.
 
+# Written Report
 **Writing Assignment 2: Post-Incident Report – SolarWinds 2020**
 
 Joshua Wong  
